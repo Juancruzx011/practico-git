@@ -1,0 +1,12 @@
+Datos:
+
+Juan Cruz Hernández
+DNI: 44697517
+Teléfono: 3878351575
+Clave UCC: 2319563
+
+Pabo Garay
+DNI: 45089279
+Teléfono: 3547677863
+Clave UCC: 2425436
+
